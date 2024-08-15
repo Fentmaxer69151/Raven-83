@@ -1,6 +1,6 @@
 <div align="center">
   
-# Raven XD
+# Raven :3
 <p align="center">
     </a>
     <img src="https://img.shields.io/badge/license-GPLV3-green" alt="License">
