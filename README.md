@@ -35,8 +35,8 @@ Raven XD, but more skidded.
 4. **Clone the Repository**:
    - Run the following commands in the terminal or command prompt:
      ```bash
-     git clone --recursive https://github.com/xia-mc/Raven-XD.git
-     cd Raven-XD
+     git clone --recursive https://github.com/Fentmaxer69151/Raven-83.git
+     cd Raven-83
      ```
 
 5. **Set Up the Project**:
